@@ -6,7 +6,7 @@
 - 🎓 Studying at **Institute of Technology of Cambodia (ITC)**
 - 🌱 Currently learning **Machine Learning, Numerical Analysis & Database Design**
 - 💡 Interested in **Data Science, Scientific Computing & Software Development**
-- 📫 How to reach me: **YOUR_EMAIL@gmail.com**
+- 📫 How to reach me: **leusophal2005@gmail.com**
 
 <br/>
 
@@ -35,7 +35,7 @@
 ## 📬 Connect with Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](YOUR_FACEBOOK_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/sophal-leu-1a09b0377/)L)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sophal-leu-1a09b0377/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 
 <br/>
